@@ -11,4 +11,4 @@ I started building this because a wanted to work a little bit with servermotors,
 
 
 ### Reflection
-I started building this because a wanted to work a little bit with servermotors, and also explore more of what C++ can be used for. It has a few mechanisms that proved to be hard to build out of foam plastic (wich I use to build prototypes) and for that reason I decided to buy a 3d printer. Most of the part is already printed. But as some parts are small so is my knowledge in CAD.
+Reflections so far is that 3d printing is the future.
